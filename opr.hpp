@@ -80,7 +80,6 @@ public:
 		}
 
 		// Choose operation and run command
-		int oldLeft = left;
 		int oldRight1 = right1;
 		int oldRight2 = right2;
 		bool overflow = false;

@@ -45,7 +45,6 @@ public:
 			codInstance->addCode(usedVar.getStr() + opStr + ";");
 
 		// Choose operation and run command
-		int oldVar = var;
 		bool overflow = false;
 		int min = numeric_limits<int>::min();
 		int max = numeric_limits<int>::max();

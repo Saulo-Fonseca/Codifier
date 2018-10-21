@@ -111,7 +111,6 @@ void While::run(bool show)
 
 	// Main "while" loop
 	int loopCount = 0;
-	bool firstPass = true;
 
 	// "While" runs the block at least 1 time, so that the
 	// instructions can be shown if boolTrue false
