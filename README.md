@@ -6,3 +6,5 @@ A compiled computer program is no more than the interpretation of a sequence of 
 Here you can find a paper describing my work and the source code of the project.
 
 Please compile it using C++11. Compile on unix/linux systems by running "make".
+
+In the file **Paper.pdf** you can find a detailed description of the concept.
